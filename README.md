@@ -2,7 +2,7 @@
 
 [![Continuous Integration](https://github.com/ZDoom/Raze/actions/workflows/continuous_integration.yml/badge.svg)](https://github.com/ZDoom/Raze/actions/workflows/continuous_integration.yml)
 
-## Raze is a fork of Build engine games backed by GZDoom tech and combines Duke Nukem 3D, Blood, Redneck Rampage, Shadow Warrior and Exhumed/Powerslave in a single package. It is also capable of playing Nam and WW2 GI.
+## Raze is a fork of Build engine games backed by GZDoom tech and combines Duke Nukem 3D, Blood, Redneck Rampage, Shadow Warrior and Exhumed/Powerslave in a single package. It is also capable of playing Nam and WW2 GI, and well as witchaven, tekwar, and legends of the seven paladin (expect ion fury or eduke32-based games).
 
 The game modules are based on the following sources:
 
@@ -11,6 +11,8 @@ The game modules are based on the following sources:
   * Blood: NBlood.
   * Shadow Warrior: SWP and VoidSW.
   * Exhumed/Powerslave: PCExhumed, with some enhancements inspired by PowerslaveGDX.
+  * Witchaven and TekWar: sure... JFWitchaven and JFTekWar
+  * Legends of The Seven Paladins: PaladinGDX
 
 ZDoom, GZDoom Copyright (c) 1998-2022 ZDoom + GZDoom teams, and contributors
 
